@@ -1,0 +1,59 @@
+body {
+     font-family: "Open Sans", sans-serif;
+     color: #212529;
+}
+
+.bg-purpura{
+     background-color: #e83e8c;
+
+}
+
+nav {
+     text-decoration: none;
+     color: #ffffff;
+}
+
+.nav-item{
+  font-weight: 400;
+  font-size: 16px;
+}
+
+h1 {
+     font-weight: 700;
+     margin-top: 60px;
+}
+
+h2 {
+     font-weight: 700;
+     font-size: 40px;
+}
+
+h5{
+     font-weight:700;
+     font-size: 17px;;
+}
+
+p {
+     font-weight: 400;
+     font-size: 19px;
+}
+
+ul li{
+     font-weight: 400;
+     font-size: 12px;
+}
+
+.card-body a{
+      font-weight: 400;
+      font-size: 12px;
+}
+#icons-section {
+     background-color: #17a2b8;
+     font-size: 50px;
+     font-weight: 400;
+}
+
+footer img {
+     width: 45px;
+     height: 100px;
+}
